@@ -1,3 +1,4 @@
+#written by myself 
 import paramiko
 import time
 ip = input("enter the ip address :")

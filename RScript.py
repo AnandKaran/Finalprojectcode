@@ -1,3 +1,4 @@
+#Written this code myself but taken help from David Bombal GNS3 regarding paramiko functionality.
 import paramiko
 import time
 
